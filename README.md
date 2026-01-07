@@ -17,7 +17,6 @@ Un compromis précision–rappel a été analysé pour cette classe afin d’opt
 
 ## Structure du projet
 - `*.ipynb` : notebook(s) contenant l’analyse, les expériences et les visualisations
-- `data/` : données utilisées pour l’entraînement et l’évaluation (si applicable)
 - `requirements.txt` : dépendances Python nécessaires à l’exécution du projet
 
 ## Prérequis
